@@ -1,0 +1,22 @@
+title:  Git Galaxy
+tagline:  Covering the space of open source projects and initiatives
+
+# Authors documented under _data
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'https-lenpaul-github-io-lagrange'
+
+google-ID: 'UA-80213386-1'
+
+menu:
+- {name: 'About', path: 'menu', url: 'about.html'}
+- {name: 'Write for us', path: 'menu', url: 'write-for-us.html'}
+- {name: 'Contact', path: 'menu', url: 'contact.html'}
+
+social:
+- {icon: 'github', link: 'https://www.github.com/gmemstr'}
+- {icon: 'twitter', link: 'https://twitter.com/gitgalaxy'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer

@@ -1,0 +1,7 @@
+Configuration file: /mnt/c/Users/gabriel/Documents/Projects/GitGalaxy/blog/_config.yml
+            Source: /mnt/c/Users/gabriel/Documents/Projects/GitGalaxy/blog
+       Destination: /mnt/c/Users/gabriel/Documents/Projects/GitGalaxy/blog/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+         AutoPages: Disabled/Not configured in site.config.
+        Pagination: Complete, processed pagination page(s)
