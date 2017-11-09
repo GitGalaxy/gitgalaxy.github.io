@@ -1,0 +1,1 @@
+This is the official repository powering the new Git Galaxy GitHub Pages blog.
