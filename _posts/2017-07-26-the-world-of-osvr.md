@@ -1,7 +1,7 @@
 ---
 layout: post
 author: nathan
-categories: [osvr, virtual-reality]
+categories: [open-source, virtual-reality]
 date: 2017-07-26 03:17:00 +0000
 title: The World of Open-Source Virtual Reality
 ---
@@ -28,8 +28,8 @@ HDK (Hacker Development Kit). It costs about $500 at the moment and boasts specs
 up to par with the leading HMDs in the market. With a 2160 x 1200 dual display
 at 90 Hz, 110° field of view, and 8x9 feet tracking zone, the HDK does not
 disappoint.[1]  For this reason, it may appeal to both developers and VR
-enthusiasts alike. Furthermore, it’s compatible with all these VR devices
-[https://osvr.github.io/compatibility/]. The real drawback here is that
+enthusiasts alike. Furthermore, it’s compatible with [all these VR devices]
+(https://osvr.github.io/compatibility/). The real drawback here is that
 operating OSVR requires a knack for technical troubleshooting and setup. It’s
 generally unpolished and isn’t meant to serve as a perfect VR experience, but a
 way to tinker with different modules and configurations. You’re bound to
@@ -43,8 +43,8 @@ applications in order to make it easier on developers. The OSVR core is written
 in C++ but repository activity has definitely slowed down considerably in 2017
 compared to years past. The system allows devs to choose their preferred tools,
 both physically and digitally, without any real difficulties. It also allows for
-various plugins to be implemented such as eye or gesture tracking
-[https://github.com/OSVR/OSVR-SMI]. Several of these plugins are open-source as
+various plugins to be implemented such as [eye or gesture tracking]
+(https://github.com/OSVR/OSVR-SMI). Several of these plugins are open-source as
 well, allowing for further expansion on the OSVR modular ecosystem. Lastly, it’s
 all free to use and under the Apache 2.0 License, which allows for both
 modification and distribution. OSVR is so appealing because it also works with
@@ -69,13 +69,11 @@ steadily ahead in a technology that may completely change the game.
 
 --------------------------------------------------------------------------------
 
- 1. OSVR Specs: http://www.osvr.org/hdk2.html  ↩︎
+ 1. OSVR Specs: http://www.osvr.org/hdk2.html
     
     
- 2. Reddit: Some input from HDK 2 users
-    [https://www.reddit.com/r/OSVR/comments/4ydpb0/would_you_recommend_buying_the_hdk_2/] 
-     ↩︎
+ 2. Reddit: [Some input from HDK 2 users](https://www.reddit.com/r/OSVR/comments/4ydpb0/would_you_recommend_buying_the_hdk_2/)
     
     
  3. Razer's OSVR Investment: 
-    https://www.roadtovr.com/razer-5-million-osvr-developer-fund-investment/  ↩︎
+    https://www.roadtovr.com/razer-5-million-osvr-developer-fund-investment/

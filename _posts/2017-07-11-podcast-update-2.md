@@ -1,16 +1,14 @@
 ---
 layout: post
 author: gabriel
-categories: [podcast, readme]
+categories: [readme, podcast]
 date: 2017-07-11 19:47:36 +0000
 title: Podcast Update!
 ---
 
 Hello!
 
-  [https://i.imgur.com/w5u4Rzq.png]
-
-podcast.gitgalaxy.com [https://podcast.gitgalaxy.com]
+  ![](https://i.imgur.com/w5u4Rzq.png)
 
 So, it's been a little while since the last update, and in that time I've made
 some fairly decent progress on fully testing White Rabbit. While I am still
@@ -26,17 +24,19 @@ creation, namely the podcasts/  directory. It's also advantageous to touch
 feed.rss feed.json  if you don't immediately upload an episode. You also need to
 do a couple go gets.
 
+```
 get get github.com/gmemstr/feeds
 get get github.com/spf13/viper
 get get github.com/gorilla/mux
 get get github.com/fsnotify/fsnotify
-
+```
 
 and then
 
+```
 go build webserver.go generate_rss.go
 ./webserver
-
+```
 
 But it does work, for the most part. It will freak out if you upload an mp3
 without shownotes, and files need to be named in a specific format (by design,
@@ -51,8 +51,7 @@ episodes. It's super basic as of right now but it's functional for debugging.
 
 I'll be writing up a larger piece about my experience creating this software in
 the future, but I wanted to let you know that the basic CMS is currently online
-at podcast.gitgalaxy.com [https://podcast.gitgalaxy.com]. Feedback is very much
+at [podcast.gitgalaxy.com](https://podcast.gitgalaxy.com). Feedback is very much
 welcome at our new email contact@gitgalaxy.com. Any general questions or
 comments can be directed there, and any White Rabbit specific questions should
-be directed to gabriel@gitgalaxy.com. Issues should be opened on GitHub
-[https://github.com/gmemstr/whiterabbit/].
+be directed to gabriel@gitgalaxy.com. Issues should be opened on [GitHub](https://github.com/gmemstr/whiterabbit/).

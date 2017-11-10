@@ -20,14 +20,13 @@ initiative is named Walmart Labs, and it's fascinating to explore.
 One of Walmarts largest projects is "electrode", a JavaScript framework for
 building large and small scale projects and "focuses on performance, component
 reusability, and simple deployment to multiple cloud providers—so you can focus
-on what makes your app unique" (from their README
-[https://github.com/electrode-io/electrode/blob/master/README.md]). This is the
-underlying framework behind Walmart.com [http://Walmart.com], and is incredibly
+on what makes your app unique" (from their [README](https://github.com/electrode-io/electrode/blob/master/README.md)). This is the
+underlying framework behind [Walmart.com](http://Walmart.com), and is incredibly
 powerful and fully featured, including things like built-in above-the-fold
 rendering (only renders components you can actually see on screen), stateless
 CSRF validation, and a built-in asynchronous router that couples with React,
 through the modules that you can add on to your project. It's open sourced under
-the Apache 2.0 [https://choosealicense.com/licenses/apache-2.0/]  license.
+the [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) license.
 
 Thorax is a frontend framework that combines Handlebars and Backbone into a neat
 little package. Unfortunately the project's GitHub pulse doesn't seem to report
@@ -41,9 +40,8 @@ at Walmart.
 One project that I have personally been drawn to is active-status, a CLI tool
 written in Clojure that shows real-time output of asynchronous console commands,
 such as during a database migration.
-
  
-[https://raw.githubusercontent.com/walmartlabs/active-status/master/images/db-migrate.gif]
+![](https://raw.githubusercontent.com/walmartlabs/active-status/master/images/db-migrate.gif)
 via walmartlabs/active-status
 
 While it won't magically work with existing programs, any tools that implement
@@ -55,10 +53,8 @@ funcationally it should be completely stable, and I look forward to learning
 clojurescript, either to implement this into an existing project or contribute
 to the repository.
 
-There are several more projects open sourced on the WalmartLabs
-[https://github.com/walmartlabs/]  Github organization, a large percentage using
-JavaScript - not including electrode, that's it's own team
-[https://github.com/electrode-io/]  - Objective-C, and Clojurescript, with some
+There are several more projects open sourced on the [WalmartLabs](https://github.com/walmartlabs/) Github organization, a large percentage using
+JavaScript - not including electrode, [which is it's own team](https://github.com/electrode-io/)  - Objective-C, and Clojurescript, with some
 miscelanous ones using Go and other languages. I'd highly recommend taking a
 wander into some of the repositories and seeing what such an enterprise as
 Walmart uses for their tech stack to power their mobile apps and online store.

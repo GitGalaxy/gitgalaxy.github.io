@@ -1,3 +1,9 @@
-primary:
+gitgalaxy:
+  name: 'Git Galaxy'
+  twitter: gitgalaxy
+gabriel:
   name: 'Gabriel Simmer'
   twitter:  gmem_
+jared:
+  name: 'Jared Allard'
+  twitter: jaredallard

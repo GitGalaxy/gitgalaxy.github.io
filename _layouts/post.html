@@ -24,9 +24,11 @@ layout: default
   {{ page.date | date: "%Y" }}
   by
   {% if page.author %}
-    {{ page.author }}
+    {{ site.data.authors[page.author].name }}
+    (<a href="https://twitter.com/{{ site.data.authors[page.author].twitter }}">@{{ site.data.authors[page.author].twitter }}</a>)
   {% else %}
-    {{ site.data.authors.primary.name }}
+    {{ site.data.authors.gitgalaxy.name }}
+    (<a href="https://twitter.com/gitgalaxy">@gitgalaxy</a>)
   {% endif %}
 </span>
 

@@ -8,11 +8,11 @@ disqus:
   comments: false
   disqus_shortname: 'https-lenpaul-github-io-lagrange'
 
-google-ID: 'UA-80213386-1'
+google-ID: 'UA-102292821-1'
 
 menu:
 - {name: 'About', path: 'menu', url: 'about.html'}
-- {name: 'Write for us', path: 'menu', url: 'write-for-us.html'}
+- {name: 'Contribute', path: 'menu', url: 'contribute.html'}
 - {name: 'Contact', path: 'menu', url: 'contact.html'}
 
 social:
