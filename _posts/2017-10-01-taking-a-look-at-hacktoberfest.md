@@ -1,7 +1,8 @@
 ---
 layout: post
 author: gabriel
-categories: [open-source, github]
+categories: story
+tags: [open-source, hacktoberfest, digitalocean, github]
 date: 2017-10-01 16:00:00 +0000
 title: A Look at Hacktoberfest
 image:

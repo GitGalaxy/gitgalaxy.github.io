@@ -1,7 +1,8 @@
 ---
 layout: post
 author: gabriel
-categories: [readme, podcast]
+categories: readme
+tags: [podcast, go, golang]
 date: 2017-07-11 19:47:36 +0000
 title: Podcast Update!
 ---

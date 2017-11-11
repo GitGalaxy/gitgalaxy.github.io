@@ -1,7 +1,8 @@
 ---
 layout: post
 author: gabriel
-categories: [petition, adobe]
+categories: open-source
+tags: [adobe, flash, petition]
 date: 2017-07-26 21:54:15 +0000
 title: Should Adobe Open Source Flash
 ---
@@ -17,7 +18,7 @@ security issues2  and continued criticism for it being a completely closed and
 proprietary platform.
 
 The final nail in the coffin has come, however. Adobe themselves are completely
-dropping Flash by the year 20203, finally putting an end to Flash, once and for
+dropping Flash by the year 2023, finally putting an end to Flash, once and for
 all. While no doubt older websites will continue to use it, whether it be lack
 of continued support or just because "it's easier", moving forward we will
 undoubtedly lose large portions of internet, or at the very least the ability to

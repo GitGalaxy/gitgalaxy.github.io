@@ -2,7 +2,8 @@
 layout: post
 author: gabriel
 layout: post
-categories: [opinion, javascript]
+categories: opinion
+tags: [javascript, frameworks, open-source]
 date: 2017-10-17 14:00:00 +0000
 title: Changing My View of Frameworks
 ---

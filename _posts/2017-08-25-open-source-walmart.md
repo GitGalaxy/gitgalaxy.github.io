@@ -1,7 +1,8 @@
 ---
 layout: post
 author: gabriel
-categories: [companies-open-source, walmart]
+categories: open-source
+tags: [companies-open-source, walmart, javascript]
 date: 2017-08-25 15:48:39 +0000
 title: 'Companies Open Source: Walmart'
 ---

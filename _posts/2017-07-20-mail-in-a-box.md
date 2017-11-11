@@ -1,7 +1,8 @@
 ---
 layout: post
 author: gabriel
-categories: [open-source, mail-in-a-box]
+categories: open-source
+tags: [mail-in-a-box, email, open-source-project]
 date: 2017-07-20 07:29:00 +0000
 title: Mail-in-a-box
 ---

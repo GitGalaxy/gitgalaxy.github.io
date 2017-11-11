@@ -1,7 +1,8 @@
 ---
 layout: post
 author: gabriel
-categories: [readme]
+categories: readme
+tags: [ads, advertising, monetization]
 date: 2017-07-21 18:54:42 +0000
 title: Why am I seeing ads?
 ---

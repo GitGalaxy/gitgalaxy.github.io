@@ -1,7 +1,8 @@
 ---
 layout: post
 author: jared
-categories: [open-source, machine-learning]
+categories: story
+tags: [ai, open-source, machine-learning, chatbot]
 date: 2017-10-03 05:33:34 +0000
 title: Writing an "emotional" chat bot
 image:

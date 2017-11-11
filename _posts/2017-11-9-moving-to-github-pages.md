@@ -2,7 +2,8 @@
 layout: post
 author: gabriel
 date: 2017-11-9
-categories: [readme]
+categories: story
+tags: [github, open-source, stack, readme]
 title: Moving to GitHub Pages
 ---
 

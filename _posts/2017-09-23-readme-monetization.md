@@ -1,7 +1,8 @@
 ---
 layout: post
 author: gabriel
-categories: [readme, contributing]
+categories: readme
+tags: [ads, advertising]
 date: 2017-09-23 16:42:08 +0000
 title: 'README: Monetization'
 ---

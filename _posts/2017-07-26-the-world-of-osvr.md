@@ -1,7 +1,8 @@
 ---
 layout: post
 author: nathan
-categories: [open-source, virtual-reality]
+categories: open-source
+tags: [virtual-reality, vr, osvr, open-source-project]
 date: 2017-07-26 03:17:00 +0000
 title: The World of Open-Source Virtual Reality
 ---

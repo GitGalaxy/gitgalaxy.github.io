@@ -1,7 +1,8 @@
 ---
 layout: post
 author: gabriel
-categories: [opinion, open-source]
+categories: opinion
+tags: [school, open-source, idea, pitch]
 date: 2017-09-19 01:05:19 +0000
 title: Opening Schools to the Students
 ---

@@ -1,7 +1,8 @@
 ---
 layout: post
 author: jared
-categories: [open-source, nodemc]
+categories: story
+tags: [open-source, nodemc, minecraft, nodejs]
 date: 2017-09-19 04:00:36 +0000
 title: 'NodeMC: How Open Source Can Crash and Burn Into Something Beautiful'
 image:
