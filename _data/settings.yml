@@ -16,7 +16,7 @@ menu:
 - {name: 'Contact', path: 'menu', url: 'contact.html'}
 
 social:
-- {icon: 'github', link: 'https://www.github.com/gmemstr'}
+- {icon: 'github', link: 'https://www.github.com/gitgalaxy'}
 - {icon: 'twitter', link: 'https://twitter.com/gitgalaxy'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
