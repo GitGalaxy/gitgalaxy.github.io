@@ -11,6 +11,8 @@ git clone git@github.com:your-username/gitgalaxy.github.io.git
 
 And then write an article in `_posts/`, using markdown and following the YYYY-MM-DD-Title format for the file (please read more into [writing posts for Jekyll](https://jekyllrb.com/docs/posts/)). Push back to your repository and make a new pull request, with the title being the title of your post, and the body a short summary.
 
+Also be sure to add yourself to `_data/authors.yml` so we can properly credit you.
+
 From there, we'll take a look at your post, and merge it as soon as possible (we recommend setting the date slightly in advance).
 
 If you want to preview the post, or make other changes to the site, install the dependencies
