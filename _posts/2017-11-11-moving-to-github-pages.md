@@ -61,7 +61,10 @@ and everything would be peachy. Alas, this was not so. As it turns out, GitHub P
 HTTPS with custom domains, which is somewhat unfortunate, so for the time being that has been disabled.
 We'll have to revist this at a later date. We've also switched to using CloudFlare for our DNS, as
 we wanted stricter caching and had hoped it would be able to act as a medium to cover HTTPS.
-Turns out this is not the case, but we'll look at it later down the line.
+Turns out this is not the case, ~~but we'll look at it later down the line~~.
+
+**UPDATE** We're now fully HTTPS covered! Thanks to reddit user [cyno1](https://www.reddit.com/user/cyno1) for
+pointing me in the right direction.
 
 We continue our mission of covering cool open source initiatives and projects, and will take
 advantage of GitHub Pages. As of now, we have no plans to migrate off, but thanks to Jekyll
