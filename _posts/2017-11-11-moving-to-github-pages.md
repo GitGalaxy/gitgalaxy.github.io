@@ -1,7 +1,7 @@
 ---
 layout: post
 author: gabriel
-date: 2017-11-9
+date: 2017-11-11
 categories: story
 tags: [github, open-source, stack, readme]
 title: Moving to GitHub Pages
@@ -54,6 +54,14 @@ and it worked.
 Along the way, I had forked the theme and started making commits along the way, as I tried to track
 down the issue. While I made quite a few commits, the majority of them ended up being reverted when
 I found out my mistake, and the pull request had (thankfully) not been merged yet.
+
+So another speedbump I hit was trying to get the domain name and SSL configured properly. Initially I
+believed it would be as easy as adding the CNAME file, pointing the domain to GitHub's servers,
+and everything would be peachy. Alas, this was not so. As it turns out, GitHub Pages doesn't support
+HTTPS with custom domains, which is somewhat unfortunate, so for the time being that has been disabled.
+We'll have to revist this at a later date. We've also switched to using CloudFlare for our DNS, as
+we wanted stricter caching and had hoped it would be able to act as a medium to cover HTTPS.
+Turns out this is not the case, but we'll look at it later down the line.
 
 We continue our mission of covering cool open source initiatives and projects, and will take
 advantage of GitHub Pages. As of now, we have no plans to migrate off, but thanks to Jekyll
