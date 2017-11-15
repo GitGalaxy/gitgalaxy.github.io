@@ -48,6 +48,13 @@ img {
   border-radius: 5px;
 }
 
+.site-logo {
+  top: 0;
+  width: 6vw;
+  display: block;
+  margin: auto;
+}
+
 blockquote {
   border-left: 0.25rem solid #ccc;
   margin: 1.5em 10px;
@@ -96,6 +103,7 @@ blockquote p {
 */
 
 .masthead {
+  text-align: center;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   margin-bottom: 4rem;
@@ -125,7 +133,7 @@ blockquote p {
 }
 
 .posts {
-  margin-bottom: 5rem;
+  margin-bottom: 2rem;
   padding: 0px;
   list-style: none;
 }

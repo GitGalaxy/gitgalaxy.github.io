@@ -19,4 +19,6 @@ social:
 - {icon: 'github', link: 'https://github.com/gitgalaxy'}
 - {icon: 'twitter', link: 'https://twitter.com/gitgalaxy'}
 
+logo: 'GitGalaxy_Small.png'
+
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
