@@ -19,7 +19,7 @@ attempts to use the export method built into the Ghost admin interface proved fr
 was a lot of garbage that wasn't needed, and the "plaintext" entries were actually just HTML.
 Thus, another solution had to be found, and I happened upon a gist by Marians which
 accomplished this very thing (I had to make a few tweaks to match with the latest
-database layout, which you can find [here](https://gist.github.com/gmemstr/0008acc9037dabafcf9f838f7018e5fd0)).
+database layout, which you can find [here](https://gist.github.com/gmemstr/0008acc9037dabafcf9f838f7018e5fd)).
 This worked fantastically, and formatted the markdown files for Jekyll blogs, but required
 a bit of setup on the server itself (why is pip never installed _with_ Python?). In the end,
 we ended up with all of our posts exported, with only a few things missing (AdSense code has
